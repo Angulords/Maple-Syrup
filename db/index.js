@@ -1,7 +1,7 @@
 const Sequelize = require('sequelize');
 // const url = require('./dbUrl');
 
-const db = new Sequelize('postgres://kljnfvjk:8Zc5bRJG7ankDzCoN8tUzR-9v2cchGeS@stampy.db.elephantsql.com:5432/kljnfvjk', {
+const db = new Sequelize('postgres://jzjkaqvm:5Ady2UIGVFs0Si7YjTR8RmHH3XEshYmo@stampy.db.elephantsql.com:5432/jzjkaqvm', {
   pool: {
     max: 3,
     min: 0,
